@@ -1,0 +1,5 @@
+listen_addr: 127.0.0.1:27123
+output_dir: ~/Documents/notes
+api_key: ""
+log_level: info
+max_body_size: 1048576
